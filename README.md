@@ -1,7 +1,7 @@
 # Housing-Price-Regression-Models
 
 Linear Regression with Python
-In this notebook we will cover the following linear algorithms:
+In this jupyter notebook we will cover the following linear algorithms:
 
 Linear Regression
 Robust Regression
@@ -23,9 +23,9 @@ The data contains the following columns:
 
 Summary:
 
-In this notebook you discovered the linear regression algorithm for machine learning.
+In this jupyter notebook we discovered the linear regression algorithm for machine learning.
 
-You covered a lot of ground including:
+We covered a lot of ground including:
 
 The common linear regression models (Ridge, Lasso, ElasticNet, ...).
 The representation used by the model.
